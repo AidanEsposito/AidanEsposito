@@ -103,9 +103,8 @@ An interactive mapping application designed to visualize waste management inform
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165"
-    src="https://github-stats-extended.vercel.app/api?username=AidanEsposito&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Statistics" />
+  <img src="https://streak-stats.demolab.com?user=AidanEsposito&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
   <img height="165"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=AidanEsposito&layout=compact&theme=tokyonight&hide_border=true"
     alt="Most Used Languages" />
