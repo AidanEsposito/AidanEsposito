@@ -72,7 +72,7 @@ Designed and developed a custom website for a local skincare business, transitio
 - Focused on usability, mobile responsiveness, and user experience.
 - Translated client requirements into practical website features.
 
-**Technologies:** React · JavaScript · CSS · Figma
+**Technologies:** React · Javascript · CSS · Figma
 
 ### ⚙️ Cod
 **Custom Programming Language & Compiler**
@@ -84,7 +84,7 @@ A programming language implementation exploring fundamental compiler design and 
 - Implemented bytecode generation.
 - Explored fundamental programming language and compiler architecture concepts.
 
-**Technologies:** Rust · Compiler Design · AST · Bytecode
+**Technologies:** Javascript · Compiler Design · AST · Bytecode
 
 ### ♻️ WasteWise
 **Interactive Waste Management Mapping Application**
@@ -103,13 +103,12 @@ An interactive mapping application designed to visualize waste management inform
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AidanEsposito&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub statistics" />
-  
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AidanEsposito&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AidanEsposito&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img height="165"
+    src="https://github-stats-extended.vercel.app/api?username=AidanEsposito&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Statistics" />
+  <img height="165"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=AidanEsposito&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages" />
 </p>
 
 ---
