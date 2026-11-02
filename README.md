@@ -1,7 +1,14 @@
 
-# Hi, I'm Aidan Esposito! 👋
+<div align="center">
 
-### Full-Stack Software Developer | Computer Science Graduate
+# 👋 Hi, I'm Aidan Esposito!
+
+### <span style="color:#BB9AF7">Full-Stack Software Developer</span> | Computer Science Graduate
+
+![Profile](https://img.shields.io/badge/Computer%20Science-LMU%20Cum%20Laude-7AA2F7?style=flat-square&labelColor=1A1B27)
+![Location](https://img.shields.io/badge/Location-Los%20Angeles-7DCFFF?style=flat-square&labelColor=1A1B27)
+
+</div>
 
 I'm a 2025 Computer Science graduate from **Loyola Marymount University** with a passion for building software, developing intuitive user experiences, and solving real-world problems through technology.
 
@@ -16,39 +23,40 @@ I enjoy working across the full development stack, from designing responsive fro
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**<span style="color:#7AA2F7">Languages</span>**
 
 JavaScript · Java · Python · Rust · C · C# · SQL
 
-**Frontend Development**
+**<span style="color:#BB9AF7">Frontend Development</span>**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![React](https://img.shields.io/badge/React-7AA2F7?style=for-the-badge&logo=react&logoColor=1A1B27)
+![Svelte](https://img.shields.io/badge/Svelte-BB9AF7?style=for-the-badge&logo=svelte&logoColor=1A1B27)
+![HTML5](https://img.shields.io/badge/HTML5-7DCFFF?style=for-the-badge&logo=html5&logoColor=1A1B27)
+![CSS3](https://img.shields.io/badge/CSS3-7AA2F7?style=for-the-badge&logo=css3&logoColor=1A1B27)
+![Figma](https://img.shields.io/badge/Figma-BB9AF7?style=for-the-badge&logo=figma&logoColor=1A1B27)
 
-**Backend Development & APIs**
+**<span style="color:#7DCFFF">Backend Development & APIs</span>**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-![Google APIs](https://img.shields.io/badge/Google_APIs-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-9ECE6A?style=for-the-badge&logo=nodedotjs&logoColor=1A1B27)
+![Firebase](https://img.shields.io/badge/Firebase-BB9AF7?style=for-the-badge&logo=firebase&logoColor=1A1B27)
+![REST APIs](https://img.shields.io/badge/REST_APIs-7AA2F7?style=for-the-badge&logo=fastapi&logoColor=1A1B27)
+![Google APIs](https://img.shields.io/badge/Google_APIs-7DCFFF?style=for-the-badge&logo=google&logoColor=1A1B27)
+![Twilio](https://img.shields.io/badge/Twilio-F7768E?style=for-the-badge&logo=twilio&logoColor=1A1B27)
 
-**Tools & Technologies**
+**<span style="color:#9ECE6A">Tools & Technologies</span>**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F7768E?style=for-the-badge&logo=git&logoColor=1A1B27)
+![GitHub](https://img.shields.io/badge/GitHub-7AA2F7?style=for-the-badge&logo=github&logoColor=1A1B27)
+![VS Code](https://img.shields.io/badge/VS_Code-7DCFFF?style=for-the-badge&logo=visualstudiocode&logoColor=1A1B27)
+![Postman](https://img.shields.io/badge/Postman-BB9AF7?style=for-the-badge&logo=postman&logoColor=1A1B27)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-9ECE6A?style=for-the-badge&logo=googlesheets&logoColor=1A1B27)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🍽️ PureDine
+### <span style="color:#7AA2F7">🍽️ PureDine</span>
+
 **Full-Stack Restaurant Discovery & Allergen-Awareness Application**
 
 A restaurant discovery platform designed to help users find restaurants and explore menu options based on dietary preferences and food allergies.
@@ -61,7 +69,8 @@ A restaurant discovery platform designed to help users find restaurants and expl
 
 **Technologies:** React · Node.js · Firebase · REST APIs
 
-### 💆 Skin Care by Ardyce
+### <span style="color:#BB9AF7">💆 Skin Care by Ardyce</span>
+
 **Custom Business Website & Client Project**
 
 Designed and developed a custom website for a local skincare business, transitioning its online presence to a custom React application.
@@ -72,9 +81,10 @@ Designed and developed a custom website for a local skincare business, transitio
 - Focused on usability, mobile responsiveness, and user experience.
 - Translated client requirements into practical website features.
 
-**Technologies:** React · Javascript · CSS · Figma
+**Technologies:** React · JavaScript · CSS · Figma
 
-### ⚙️ Cod
+### <span style="color:#7DCFFF">⚙️ Cod</span>
+
 **Custom Programming Language & Compiler**
 
 A programming language implementation exploring fundamental compiler design and language processing concepts.
@@ -84,9 +94,10 @@ A programming language implementation exploring fundamental compiler design and 
 - Implemented bytecode generation.
 - Explored fundamental programming language and compiler architecture concepts.
 
-**Technologies:** Javascript · Compiler Design · AST · Bytecode
+**Technologies:** JavaScript · Compiler Design · AST · Bytecode
 
-### ♻️ WasteWise
+### <span style="color:#9ECE6A">♻️ WasteWise</span>
+
 **Interactive Waste Management Mapping Application**
 
 An interactive mapping application designed to visualize waste management information and improve access to location-based resources.
@@ -102,21 +113,15 @@ An interactive mapping application designed to visualize waste management inform
 
 ## 📊 GitHub Statistics
 
-  <p align="center">
-  <img
-    height="165"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=AidanEsposito&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used Programming Languages"
-  />
-</p>
+<div align="center">
 
-  <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=AidanEsposito&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AidanEsposito&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Programming Languages" />
 
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=AidanEsposito&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+
+</div>
 
 ---
 
@@ -130,7 +135,9 @@ I'm always interested in connecting with fellow developers, exploring new techno
 
 ---
 
-<p align="center">
-  <i>Always learning. Always building. Always improving.</i>
-</p>
+<div align="center">
+
+### <span style="color:#BB9AF7">Always learning. Always building. Always improving.</span>
+
+</div>
 
