@@ -104,6 +104,7 @@ An interactive mapping application designed to visualize waste management inform
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=AidanEsposito&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub statistics" />
+  
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AidanEsposito&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
 </p>
 
